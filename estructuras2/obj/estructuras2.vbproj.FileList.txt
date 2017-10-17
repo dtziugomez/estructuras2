@@ -1,0 +1,10 @@
+bin\Debug\estructuras2.exe
+bin\Debug\estructuras2.pdb
+bin\Debug\estructuras2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\estructuras2.Form1.resources
+obj\Debug\estructuras2.Resources.resources
+obj\Debug\estructuras2.vbproj.GenerateResource.Cache
+obj\Debug\estructuras2.exe
+obj\Debug\estructuras2.xml
+obj\Debug\estructuras2.pdb
